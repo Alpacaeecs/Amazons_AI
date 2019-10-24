@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ConsoleApplication2.cpp
+d:\amazons\consoleapplication2\consoleapplication2\consoleapplication2.cpp(677): warning C4715: “check”: 不是所有的控件路径都返回值
+d:\amazons\consoleapplication2\consoleapplication2\consoleapplication2.cpp(1376): warning C4715: “dostep”: 不是所有的控件路径都返回值
+  ConsoleApplication2.vcxproj -> D:\Amazons\ConsoleApplication2\Debug\ConsoleApplication2.exe
